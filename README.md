@@ -1,4 +1,4 @@
-### Hosted Link of Project:- https://kommunicate-assignment-chi.vercel.app/
+### Hosted Link of Project:- https://rohitdhawale07.github.io/Kommunicate-test/
 ## Javascript code for extracting the value of a specified parameter from a given URL.
 ``` 
 function getUrlParameterValue(url, parameter) {
